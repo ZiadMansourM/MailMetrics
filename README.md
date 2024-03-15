@@ -20,5 +20,5 @@ I intend to build MailMetrics as a self-hosted, open-source desktop application.
 - `Open Issues`: Share your ideas, feature suggestions, or any bugs you discover.
 - `Submit Pull Requests`: Feel free to directly propose code improvements or new features.
 
-## Useful Refrences
+## Useful References
 - [An Illustrated Guide to OAuth and OpenID Connect](https://youtu.be/t18YB3xDfXI?si=9Lancz-z3CuBKMKz).
